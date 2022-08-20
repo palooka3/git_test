@@ -1,0 +1,3 @@
+Hello world! 
+I am enjoying learning to code with the Odin Project. 
+The kids are being loud right now, but I am trying to stay focused. 
